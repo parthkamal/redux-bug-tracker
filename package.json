@@ -1,0 +1,16 @@
+{
+  "name": "bug-tracker-with-redux",
+  "version": "1.0.0",
+  "description": "in this project i will make a javascript application for tracking bugs with nodejs as backend and redux as the state management library redux is a state management library build specially for javascript application redux makes an object called store for the app which acts as an database for the frontend  redux makes all the components of the ui to be in sync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

@@ -11,3 +11,22 @@ easy debugging
 preserve page state
 undo/redo 
 ecosystem of add-ons
+
+const of redux in an application 
+complexity-redux requires the use of functional programming which increases the complexity of the application 
+verbosity-using redux in an app always requires some boilerplate code to initialize
+
+redux is build on top of functional programming concepts
+
+pure functions
+no random values 
+no current date/time 
+no global  state
+no mutation of parameters
+
+
+benefits of pure functions
+self documenting
+easily testable
+concurrency
+cacheable
